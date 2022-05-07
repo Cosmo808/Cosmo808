@@ -24,3 +24,5 @@
 <a href="https://github.com/Cosmo808/bombus-simulator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=bombus-simulator&theme=radical" />
 </a>
+
+<br>
