@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning reinforcement learning.
 - ⚡ PyTorch & Tensorflow
 - 📫 Email: cosmo8082@163.com
-- 📕 Master: NUS
+- 👨🏻‍💻 Master: NUS
 - 📕 Bachelor: ZJU
 
 <br>
