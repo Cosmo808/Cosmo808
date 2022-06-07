@@ -4,7 +4,7 @@
 
 - ❤️ Love deep neural networks
 - 🔭 I’m currently learning reinforcement learning.
-- ⚡ PyTorch
+- ⚡ Python
 - 📫 Email: cosmo8082@163.com
 - 📕 MSc: NUS, BSc: ZJU
 
