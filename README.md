@@ -2,7 +2,7 @@
 
 **About me**
 
-- ❤️ Love deep neural networks
+- ❤️ Love machine learning
 - 🔭 I’m currently learning reinforcement learning.
 - ⚡ Python
 - 📫 Email: cosmo8082@163.com
