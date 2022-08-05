@@ -3,7 +3,7 @@
 **About me**
 
 - ❤️ Love machine learning
-- 🔭 I’m currently learning reinforcement learning.
+- 🔭 I’m currently learning Brain Imaging.
 - ⚡ Python
 - 📫 Email: cosmo8082@163.com
 - 📕 MSc: NUS, BSc: ZJU
