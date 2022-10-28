@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning GCNN.
 - ⚡ Python
 - 📫 Email: cosmo8082@163.com
-- 📕 MPhil: NUS, BEng: ZJU
+- 📕 MS: NUS, BS: ZJU
 
 <br>
 
