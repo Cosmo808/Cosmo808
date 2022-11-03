@@ -21,5 +21,11 @@
 <a href="https://github.com/Cosmo808/bombus-simulator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=bombus-simulator&theme=radical" />
 </a>
+<a href="https://github.com/Cosmo808/CFA_FYP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=CFA_FYP&theme=radical" />
+</a>
+<a href="https://github.com/Cosmo808/SnakeDQN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=SnakeDQN&theme=radical" />
+</a>
 
 <br>
