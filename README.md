@@ -2,8 +2,8 @@
 
 **About me**
 
-- ❤️ Love machine learning
-- 🔭 I’m currently learning GCNN.
+- ❤️ Love anything
+- 🔭 I’m currently learning GCN.
 - ⚡ Python
 - 📫 Email: cosmo8082@163.com
 - 📕 MS: NUS, BS: ZJU
