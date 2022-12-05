@@ -3,7 +3,7 @@
 **About me**
 
 - ❤️ Love anything
-- 🔭 I’m currently learning GCN.
+- 🔭 I’m currently learning variational AE.
 - ⚡ Python
 - 📫 Email: cosmo8082@163.com
 - 📕 MS: NUS, BS: ZJU
