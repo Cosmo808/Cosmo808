@@ -2,7 +2,7 @@
 
 **About me**
 
-- ❤️ Love anything
+- ❤️ Love math
 - 🔭 I’m currently learning variational AE.
 - ⚡ Python
 - 📫 Email: cosmo8082@163.com
