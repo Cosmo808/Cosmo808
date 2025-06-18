@@ -3,10 +3,12 @@
 **About me**
 
 - ❤️ Love math
-- 🔭 I’m currently learning variational AE.
+- 🔭 Spiking Neural Networks, Brain Computer Interface
 - ⚡ Python
-- 📫 Email: cosmo8082@163.com
-- 📕 MS: NUS, BS: ZJU
+- 📫 Email: mchen88@zju.edu.cn
+- 📕 Bachelor: Zhejiang University
+- 📕 Master: National University of Singapore
+- 📕 PhD: Zhejiang University
 
 <br>
 
