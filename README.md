@@ -26,7 +26,7 @@
 <a href="https://github.com/Cosmo808/zju-healthreport">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=zju-healthreport&theme=radical" />
 </a>
-<a href="https://github.com/MChen808/MChen808">
+<a href="https://github.com/MChen808/UOMETM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MChen808&repo=UOMETM&theme=radical" />
 </a>
 
