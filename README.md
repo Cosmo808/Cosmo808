@@ -17,8 +17,8 @@
 
 #### Top Repositories
 
-<a href="https://github.com/Cosmo808/AAAI2026">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=AAAI2026&theme=radical" />
+<a href="https://github.com/MChen808/S-3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MChen808&repo=S-3&theme=radical" />
 </a>
 <a href="https://github.com/Cosmo808/ACL2026">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=ACL2026&theme=radical" />
@@ -26,8 +26,8 @@
 <a href="https://github.com/Cosmo808/zju-healthreport">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=zju-healthreport&theme=radical" />
 </a>
-<a href="https://github.com/Cosmo808/bombus-simulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=bombus-simulator&theme=radical" />
+<a href="https://github.com/MChen808/MChen808">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MChen808&repo=UOMETM&theme=radical" />
 </a>
 
 <br>
