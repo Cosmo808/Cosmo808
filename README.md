@@ -20,7 +20,7 @@
 <a href="https://github.com/MChen808/S-3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MChen808&repo=S-3&theme=radical" />
 </a>
-<a href="https://github.com/Cosmo808/ACL2026">
+<a href="https://github.com/Cosmo808/ACL2026-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cosmo808&repo=ACL2026&theme=radical" />
 </a>
 <a href="https://github.com/Cosmo808/zju-healthreport">
